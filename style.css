@@ -160,3 +160,27 @@ ul.social-icons {
 .fa-linkedin:hover {
     background-color: #0073a4;
 }
+
+**SIDE BAR**
+  
+/*!
+ * Bootstrap v3.2.0 (http://getbootstrap.com)
+ * Copyright 2011-2014 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+#testmain-wrapper {
+float:left;
+width:75%;
+padding-right: 15px ;
+padding-left: 30px ;
+margin-top: 20px ;
+margin-bottom: 100px ;
+/*.... more attributes ... */
+}
+#testsidebar-wrapper {
+float:right;
+width:20%;
+margin-bottom: 100px ;
+/*.... more attributes ... */
+}
